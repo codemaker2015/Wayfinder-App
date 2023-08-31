@@ -15,7 +15,7 @@ To run the localization inference, AR Server need to be running. Learn more on h
 ### Build and run
 
 1. Go to File > Build Settings and select Android as the platform.
-2. Connect Android device to the computer. See [development device](#development-device).
+2. Connect Android device to the computer.
 3. Click Build and Run.
 
 ## Development device
@@ -30,8 +30,6 @@ right from the Unity editor.
 - Android 7.0 (API Level 24) or later
 
 List of the supported devices by ARCore: https://developers.google.com/ar/devices
-
-I'm using [Redmi Note 11](https://www.gsmarena.com/xiaomi_redmi_note_11-11336.php) (Android 12) for development.
 
 ## Overall working principle
 
