@@ -20,7 +20,7 @@ pip install --upgrade plotly
 cd ..
 ```
 
-Download [Image Dataset](https://github.com/codemaker2015/Wayfinder-App/Server/dataset.zip)
+Download [Image Dataset](https://github.com/codemaker2015/Wayfinder-App/blob/master/Server/dataset.zip)
 
 ### Run the trainer script
 
